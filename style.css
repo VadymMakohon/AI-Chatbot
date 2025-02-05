@@ -19,6 +19,7 @@ body {
     width: 420px;
     background: #fff;
     border-radius: 15px;
+    overflow: hidden;
     box-shadow: 0 0 128px 0 rgba(0, 0,0,0.1), 0 32px 64px -48px rgba(0, 0, 0, 0.5);
   }
 
@@ -57,6 +58,29 @@ body {
     color: #fff;
     height: 40px;
     width: 40px;
+    font-size: 1.9rem;
+    margin-right: -10px;
+    padding-top: 2px;
+    cursor: pointer;
     border-radius: 50%;
+    background: none;
+    transition: 0.2s ease;
+}
+
+.chat-header #close-chatbot:hover {
     background: #3d39ac;
+}
+
+.chat-body {
+    padding: 25 22px;
+    display: flex;
+    gap: 20px;
+    height: 460px;
+    margin-bottom: 82px;
+    overflow-y: auto;
+    flex-direction: column;
+}
+
+.chat-footer {
+    position: absolute;
 }
