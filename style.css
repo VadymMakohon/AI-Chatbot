@@ -125,6 +125,13 @@ body {
     border-radius: 13px 13px 3px 13px;
 }
 
+.chat-body .bot-message .thinking-indicator .dot {
+    height: 7px;
+    width: 7px;
+    background: #6F6BC2;
+    
+}
+
 .chat-footer {
     position: absolute;
 }
