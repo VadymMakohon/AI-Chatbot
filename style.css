@@ -150,6 +150,10 @@ body {
     outline: 1px solid #CCCCE5;
 }
 
+.chat-footer .chat-form:focus-within {
+    outline: 2px solid #5350C4
+}
+
 .chat-form .message-input {
     border: none;
     outline: none;
