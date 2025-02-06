@@ -1,7 +1,7 @@
 # AI Chatbot Project
 Welcome to the AI Chatbot project! This chatbot leverages Google's Gemini API to provide intelligent responses. Follow the steps below to set up and customize your chatbot.
 
-## Preview
+## 🖥️ Preview
 ![Preview](https://github.com/user-attachments/assets/3cd0f632-23a9-4ccd-b26f-d64556403083)
 
 If you encounter an error like "API key not valid. Please pass a valid API key." while using the Chatbot, follow these steps:
