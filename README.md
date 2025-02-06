@@ -25,9 +25,11 @@ If you encounter an error like "API key not valid. Please pass a valid API key."
 
 ## 🎨 Customization
 
-This chatbot uses the free Gemini API to generate responses to any questions. You can customize it by adding your company information, and the chatbot will respond accordingly.
+This chatbot can be customized to better suit your needs. You can personalize it by adding your company details.
 
-Simply update lines 24 and 40 of `script.js` file with the following code:
+### ✏️ Modify Chat History
+
+Update lines 24 and 40 in the script.js file:
 
 ```javascript
 // Line 24
