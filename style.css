@@ -186,6 +186,15 @@ body {
     transition: 0.2s ease;
 }
 
+.chat-form .chat-controls #send-message {
+    color: #fff;
+    background: #5350C4;
+}
+
+.chat-form .chat-controls #send-message:hover {
+    background: #3d39ac;
+}
+
 .chat-form .chat-controls button:hover {
     background: #f1f1ff;
 }
