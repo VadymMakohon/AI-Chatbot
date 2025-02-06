@@ -6,12 +6,11 @@ Welcome to the AI Chatbot project! This chatbot leverages Google's Gemini API to
 
 If you encounter an error like "API key not valid. Please pass a valid API key." while using the Chatbot, follow these steps:
 
-## Get Your free API Key
-
-1. Go to [Google AI Studio](https://aistudio.google.com/app/apikey).
-2. Navigate to the API key section and create a new API key. It's free!
-
-Your API key will look something like this: AIzaSyAtpnKGX13bTgmx0l_gQeatYvdWvY_wOTQ
+## 🔑 Getting a Free API Key
+### If you encounter an error like "API key not valid. Please pass a valid API key.", follow these steps:
+1. Go to Google AI Studio[Google AI Studio](https://aistudio.google.com/app/apikey).
+2. Navigate to the API Key section and create a new API key (it's free!).
+3. Your API key will look something like this: AIzaSyAtpnKGX13bTgmx0l_gQeatYvdWvY_wOTQ
 
 ## Insert Your API Key
 
