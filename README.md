@@ -12,7 +12,7 @@ If you encounter an error like "API key not valid. Please pass a valid API key."
 2. Navigate to the API Key section and create a new API key (it's free!).
 3. Your API key will look something like this: AIzaSyAtpnKGX13bTgmx0l_gQeatYvdWvY_wOTQ
 
-## Insert Your API Key
+## 🔧Setting Up Your API Key
 
 1. Open your project folder in VS Code.
 2. Navigate to the `script.js` file.
@@ -23,7 +23,7 @@ If you encounter an error like "API key not valid. Please pass a valid API key."
 1. Save the `script.js` file after adding your API key.
 2. Open `index.html` in your browser to verify that Chatbot is working correctly.
 
-## Customization Tips
+## 🎨 Customization
 
 This chatbot uses the free Gemini API to generate responses to any questions. You can customize it by adding your company information, and the chatbot will respond accordingly.
 
