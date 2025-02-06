@@ -45,12 +45,15 @@ chatHistory.push({
 });
 ```
 
-## Important Information
+## 🔄 Switching to a Stable Model
 
-This chatbot uses the Gemini beta model, gemini-1.5-flash, which allows more free requests within a shorter timeframe. If you need greater reliability, you can switch to the stable model, gemini-1.5-pro. While the free version of this model has stricter request limits, upgrading to a paid plan will remove these restrictions.
+The chatbot currently uses Gemini-1.5-Flash (beta), allowing more free requests within a shorter timeframe. However, for greater reliability, you can switch to Gemini-1.5-Pro.
 
-To switch to the gemini-1.5-pro stable model, update the API_URL in the `script.js` file as follows:
+### 🔁 Update API URL in script.js
+
 const API_URL = `https://generativelanguage.googleapis.com/v1/models/gemini-1.5-pro:generateContent?key=${API_KEY}`;
+
+#### ⚠️ Note: The free version of gemini-1.5-pro has stricter request limits. Consider upgrading to a paid plan for unlimited access.
 
 ### ⭐ Show Your Support
 
