@@ -49,4 +49,10 @@ This chatbot uses the Gemini beta model, gemini-1.5-flash, which allows more fre
 To switch to the gemini-1.5-pro stable model, update the API_URL in the `script.js` file as follows:
 const API_URL = `https://generativelanguage.googleapis.com/v1/models/gemini-1.5-pro:generateContent?key=${API_KEY}`;
 
+### ⭐ Show Your Support
 
+If you like this project, give it a ⭐ on GitHub! Your support motivates means a lot for me. 😊
+
+## 👤Contributor
+
+- [Vadym Makohon](https://github.com/VadymMakohon)
