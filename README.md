@@ -1,4 +1,4 @@
-# AI Chatbot Project
+# 🤖 AI Chatbot Project
 Welcome to the AI Chatbot project! This chatbot leverages Google's Gemini API to provide intelligent responses. Follow the steps below to set up and customize your chatbot.
 
 ## 🖥️ Preview
